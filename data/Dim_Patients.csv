@@ -1,21 +1,21 @@
-Patient_ID,Age,Gender,Ethnicity
-P0001,68,F,African American
-P0002,81,M,Caucasian
-P0003,58,M,Caucasian
-P0004,72,F,Caucasian
-P0005,50,F,Caucasian
-P0006,30,F,Caucasian
-P0007,40,M,Asian
-P0008,68,M,Caucasian
-P0009,48,F,Caucasian
-P0010,41,M,Asian
-P0011,65,F,Caucasian
-P0012,74,F,Caucasian
-P0013,65,M,Caucasian
-P0014,51,F,Caucasian
-P0015,32,M,African American
-P0016,34,F,Caucasian
-P0017,78,M,Hispanic
-P0018,48,M,Caucasian
-P0019,52,M,Caucasian
-P0020,40,F,Caucasian
+Patient_ID,Age,Gender,Ethnicity,Hospital_Branch
+P0001,68,F,African American,North
+P0002,81,M,Caucasian,North
+P0003,58,M,Caucasian,South
+P0004,72,F,Caucasian,North
+P0005,50,F,Caucasian,South
+P0006,30,F,Caucasian,South
+P0007,40,M,Asian,North
+P0008,68,M,Caucasian,South
+P0009,48,F,Caucasian,North
+P0010,41,M,Asian,South
+P0011,65,F,Caucasian,North
+P0012,74,F,Caucasian,South
+P0013,65,M,Caucasian,North
+P0014,51,F,Caucasian,South
+P0015,32,M,African American,North
+P0016,34,F,Caucasian,South
+P0017,78,M,Hispanic,North
+P0018,48,M,Caucasian,South
+P0019,52,M,Caucasian,North
+P0020,40,F,Caucasian,South
